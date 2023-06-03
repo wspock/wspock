@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ## **GitHub Estatísticas**
 <a href='#'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wspock&theme=radical&hide_langs_below=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wspock&theme=radical&hide_langs_below=1" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wspock&show_icons=true&theme=radical&line_height=27" alt="**phtomic** github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wspock&show_icons=true&theme=radical&line_height=27" alt="**wspock** github stats"/>
 </a>
