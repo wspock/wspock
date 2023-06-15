@@ -1,4 +1,4 @@
-## **Sobre mim: **
+## Sobre mim:
 
 ### Vida longa e próspera a Todos! 🖖
 
