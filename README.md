@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wspock&show_icons=true&theme=radical&line_height=27" alt="**wspock** github stats"/>
 </a>
+ <br> 
+ <br>
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=wspock&color=blueviolet" alt="wspock" /> <br>
+ </div>
