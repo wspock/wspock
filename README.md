@@ -1,4 +1,4 @@
-### Vida longa e pŕospera a Todos! 🖖
+### Vida longa e próspera a Todos! 🖖
 
 <!--
 **wspock/wspock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
